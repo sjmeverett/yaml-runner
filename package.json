@@ -1,0 +1,13 @@
+{
+  "name": "yaml-runner",
+  "version": "0.1.0",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "deep-extend": "^0.4.0",
+    "rc-yaml": "^0.1.0",
+    "req-from": "^1.0.1",
+    "yaml-js": "^0.1.3"
+  },
+  "main": "./index.js",
+  "bin": "./bin/cli.js"
+}

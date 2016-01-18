@@ -2,6 +2,7 @@
   "name": "yaml-runner",
   "version": "0.1.0",
   "dependencies": {
+    "bluebird": "^3.1.1",
     "commander": "^2.9.0",
     "deep-extend": "^0.4.0",
     "rc-yaml": "^0.1.0",

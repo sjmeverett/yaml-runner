@@ -19,7 +19,7 @@ module.exports = function (yaci) {
 
   yaci.define('machine.node', 'version')
 
-  yaci.on('start', function () {
+  yaci.on('beginning', function () {
     console.log(machine);
     yaci.emit('done:machine');
   });
